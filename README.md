@@ -82,7 +82,7 @@ Python_Data_Analysis_Project/
 ├── LICENSE
 ├── Centralized_Model.keras
 ├── Federated_Model.keras
-└── figures/
+└── 職前訓練_2026_專題報告.pptx
 ```
 
 ---
