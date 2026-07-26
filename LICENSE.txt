@@ -1,0 +1,51 @@
+Copyright (c) 2026 Tsung-Tang Lee
+
+All Rights Reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software for the following purposes only:
+
+- Personal learning
+- Educational use
+- Academic research
+
+The following activities are NOT permitted without prior written permission
+from the copyright holder:
+
+1. Commercial use of this software or any substantial portion thereof.
+2. Selling this software.
+3. Integrating this software into commercial products or services.
+4. Using this software in paid training courses.
+5. Redistributing modified versions for commercial purposes.
+6. Providing this software as part of consulting or commercial AI services.
+
+Commercial licenses are available upon request.
+
+For commercial licensing, please contact:
+
+Tsung-Tang Lee
+
+----------------------------------------
+
+Third-Party Components
+
+This project uses publicly available technologies including but not limited to:
+
+- TensorFlow
+- Keras
+- NumPy
+- Matplotlib
+- MNIST Dataset
+
+The Federated Averaging (FedAvg) algorithm was originally proposed by:
+
+McMahan, Brendan, et al.
+Communication-Efficient Learning of Deep Networks from Decentralized Data.
+AISTATS 2017.
+
+Ownership of this repository applies only to the implementation,
+documentation, notebook organization, figures, and original source code
+created by the author. No ownership is claimed over the original FedAvg
+algorithm or third-party libraries.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
